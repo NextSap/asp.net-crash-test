@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net-crash-test", "asp.net-crash-test\asp.net-crash-test.csproj", "{F65614A6-D6D1-4D82-8D36-AD9ED2E6A84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65614A6-D6D1-4D82-8D36-AD9ED2E6A84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65614A6-D6D1-4D82-8D36-AD9ED2E6A84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65614A6-D6D1-4D82-8D36-AD9ED2E6A84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65614A6-D6D1-4D82-8D36-AD9ED2E6A84C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
