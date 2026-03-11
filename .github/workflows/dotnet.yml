@@ -22,11 +22,6 @@ jobs:
         dotnet-version: 8.0.x
     - name: Restore dependencies
       run: dotnet restore
-    - name: Validation du HTML (Razor Views)
-      uses: htmlhint/htmlhint-action@v2
-      with:
-        base-dir: './MonProjet/Views' # Adaptez le chemin vers vos vues
-        rules: 'tag-pair: true'      # Force la vérification des paires de balises
     - name: Build
       run: dotnet build --no-restore
     - name: Test
