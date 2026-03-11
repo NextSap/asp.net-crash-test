@@ -5,6 +5,8 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <RootNamespace>asp.net_crash_test</RootNamespace>
+        <RazorCompileOnBuild>true</RazorCompileOnBuild>
+        <MvcRazorCompileOnPublish>true</MvcRazorCompileOnPublish>
     </PropertyGroup>
 
 </Project>
